@@ -1,2 +1,2 @@
 # earino.com
-Website for my personal website
+Repository for my personal website
